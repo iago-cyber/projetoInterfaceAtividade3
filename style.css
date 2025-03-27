@@ -1,0 +1,45 @@
+body{
+    background-color: wheat;
+    margin: 5;
+    padding: 0;   
+}
+
+/*index*/
+h1{
+    text-align: center;
+    background-color: orange;
+}
+p#link{
+    font-size: large;
+}
+a#Link_form:hover{
+    color: red;
+    font-size:17px;
+}
+a#Link_form{
+    text-decoration: none;
+    background-color: orange;
+}
+footer p{
+    font-size: 30px;
+    color: green;
+}
+/*formulario*/
+form p{
+    text-align:justify;
+    color: black;
+}
+
+fieldset legend{
+    color: black;
+}
+
+fieldset{
+    background-color:blanchedalmond;
+}
+
+input.btn_form{
+    margin-top: 10px;
+    background-color: green;
+    color: wheat;
+}
